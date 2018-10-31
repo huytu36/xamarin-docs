@@ -225,6 +225,7 @@ many others. A few popular ones are:
 1.  [Amazon App Store for Android](http://www.amazon.com/mobile-apps/b?ie=UTF8&amp;node=2350149011)
 1.  [Handango](http://www.handango.com/)
 1.  [GetJar](http://www.getjar.com/)
+1.  [Apkplay](https://apkplay.co/)
 
 #### UWP 
 
